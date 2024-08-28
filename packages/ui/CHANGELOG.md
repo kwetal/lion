@@ -1,5 +1,15 @@
 # @lion/ui
 
+## 0.7.7
+
+### Patch Changes
+
+- bca25bc: fix: [overlays] avoid growing margin when using `preventsScroll: false`
+- 02a9427: [combobox] reset listbox options on click/enter for multiple-choice
+- e0ef676: opened-changed event detail exposes opened state
+- 61bf8cb: [select-rich] sets and removes the button role and aria attributes on change of singleOption
+- 719991f: add "aria-expanded" attribute only for the non-modal dialogs
+
 ## 0.7.6
 
 ### Patch Changes
