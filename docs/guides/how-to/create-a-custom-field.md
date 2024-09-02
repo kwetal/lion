@@ -194,7 +194,7 @@ export const createAField = () => {
 That was all!
 Now that your .modelValue is connected your component is fully compatible with our form system
 
-> Is your `.modelValue` still undefined? Please make sure you're `.value` is of type 'string'.
+> Is your `.modelValue` still undefined? Please make sure your `.value` is of type 'string'.
 
 Now you can enhance your slider by writing custom Validators for it or by
 writing a parser to get a custom modelValue type.
